@@ -73,7 +73,7 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions, comments, or suggestions, please contact Hassan Zaib Jadoon at
+For any questions, comments, or suggestions, please contact me at <br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanzaibjadoon)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hzjadoon.github.io/Portfolio/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanzaibjadoon2004@gmail.com)
