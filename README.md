@@ -17,36 +17,34 @@ The art of speech delivery is a powerful tool for communication, education, and 
 
 ## Speeches
 
-### Speech 1: [Title of Speech 1]
-- **Date Delivered**: [Date]
-- **Event/Location**: [Event/Location]
-- **Description**: [Brief description of the speech]
+### Speech 1: 
+### Speech 2: 
+### Speech 3:
+### Speech 4: 
+### Speech 5: 
+### Speech 6:
+### Speech 7: 
+### Speech 8: 
+### Speech 9:
+### Speech 10: 
+### Speech 11: 
+### Speech 12:
+### Speech 13: 
+### Speech 14: 
+### Speech 15:
+### Speech 16: 
+### Speech 17: 
+### Speech 18:
+### Speech 19: 
+### Speech 20: 
+### Speech 21:
+### Speech 22: 
+### Speech 23: 
+### Speech 24:
 
-### Speech 2: [Title of Speech 2]
-- **Date Delivered**: [Date]
-- **Event/Location**: [Event/Location]
-- **Description**: [Brief description of the speech]
-
-### Speech 3: [Title of Speech 3]
-- **Date Delivered**: [Date]
-- **Event/Location**: [Event/Location]
-- **Description**: [Brief description of the speech]
-
-*(Add more speeches as needed)*
 
 ## Usage
-
 Feel free to read, share, and get inspired by these speeches. If you use any content from this repository, please give appropriate credit to the author.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new speeches to add, please open an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Open a pull request.
 
 ## License
 
@@ -54,4 +52,4 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions, comments, or suggestions, please contact Hassan Zaib Jadoon at [your email address].
+For any questions, comments, or suggestions, please contact Hassan Zaib Jadoon at .
